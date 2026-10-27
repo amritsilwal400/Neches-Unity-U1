@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "name": "pilot_reaches",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "canal",
+        "site_no": "",
+        "role": "LNVA canal; UAS + mussel survey site; Unity scene U3",
+        "is_gauge_reach": false,
+        "nhdplusid": null,
+        "gnis_name": "LNVA canal (Glenbrook Dr to Gaulding Rd)",
+        "hydroseq": null,
+        "levelpathi": null,
+        "lengthkm": null,
+        "streamorde": null,
+        "totdasqkm": null,
+        "river_width_m": null,
+        "in_lake": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.22082,
+              29.92195
+            ],
+            [
+              -94.22082,
+              29.93395
+            ],
+            [
+              -94.23282,
+              29.93395
+            ],
+            [
+              -94.23282,
+              29.92195
+            ],
+            [
+              -94.22082,
+              29.92195
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

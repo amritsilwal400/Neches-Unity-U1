@@ -1,0 +1,1302 @@
+{
+  "type": "FeatureCollection",
+  "name": "pilot_reaches",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800154886.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000618.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.775,
+        "streamorde": 8.0,
+        "totdasqkm": 20097.01799602,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.10410169770523,
+              30.38444061950395,
+              0.0
+            ],
+            [
+              -94.1036920310392,
+              30.385479086169028,
+              0.0
+            ],
+            [
+              -94.10316983104002,
+              30.385879286168404,
+              0.0
+            ],
+            [
+              -94.10221483104152,
+              30.385258219502703,
+              0.0
+            ],
+            [
+              -94.1019966977085,
+              30.384600419503727,
+              0.0
+            ],
+            [
+              -94.10171949770893,
+              30.383892486171476,
+              0.0
+            ],
+            [
+              -94.10160483104244,
+              30.382533686173588,
+              0.0
+            ],
+            [
+              -94.10165883104236,
+              30.381082086175866,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800189980.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000573.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.632,
+        "streamorde": 8.0,
+        "totdasqkm": 20174.01539631,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.10165883104236,
+              30.381082086175866,
+              0.0
+            ],
+            [
+              -94.10204929770845,
+              30.380419219510202,
+              0.0
+            ],
+            [
+              -94.10260589770758,
+              30.379958019510923,
+              0.0
+            ],
+            [
+              -94.10282503104054,
+              30.37914428617887,
+              0.0
+            ],
+            [
+              -94.10232469770801,
+              30.378367219513393,
+              0.0
+            ],
+            [
+              -94.10146089770933,
+              30.377522019514686,
+              0.0
+            ],
+            [
+              -94.1008814310436,
+              30.37698908618222,
+              0.0
+            ],
+            [
+              -94.10076829771043,
+              30.376300086183278,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800209460.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000566.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.175,
+        "streamorde": 8.0,
+        "totdasqkm": 20174.21969633,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.10076829771043,
+              30.376300086183278,
+              0.0
+            ],
+            [
+              -94.10256183104099,
+              30.376031219517017,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800213905.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000560.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.077,
+        "streamorde": 8.0,
+        "totdasqkm": 20174.84799634,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.10256183104099,
+              30.376031219517017,
+              0.0
+            ],
+            [
+              -94.1024022310412,
+              30.375352686184726,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800189984.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000556.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.054,
+        "streamorde": 8.0,
+        "totdasqkm": 20175.13549638,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.1024022310412,
+              30.375352686184726,
+              0.0
+            ],
+            [
+              -94.10201943104181,
+              30.374997819518626,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800171643.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000550.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.419,
+        "streamorde": 8.0,
+        "totdasqkm": 20175.2461964,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.10201943104181,
+              30.374997819518626,
+              0.0
+            ],
+            [
+              -94.1008728310436,
+              30.374367086186282,
+              0.0
+            ],
+            [
+              -94.10029949771115,
+              30.37399608618682,
+              0.0
+            ],
+            [
+              -94.10023803104457,
+              30.373338619521178,
+              0.0
+            ],
+            [
+              -94.10054229771077,
+              30.3726780861889,
+              0.0
+            ],
+            [
+              -94.10090223104356,
+              30.372158019523056,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800203158.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000538.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.097,
+        "streamorde": 8.0,
+        "totdasqkm": 20175.25629639,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.10090223104356,
+              30.372158019523056,
+              0.0
+            ],
+            [
+              -94.10116437895982,
+              30.371958491398345,
+              0.0
+            ],
+            [
+              -94.10165902062573,
+              30.37157442160725,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800170389.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000520.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.709,
+        "streamorde": 8.0,
+        "totdasqkm": 20175.62019639,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.10165902062573,
+              30.37157442160725,
+              0.0
+            ],
+            [
+              -94.10164703104238,
+              30.370906219524954,
+              0.0
+            ],
+            [
+              -94.10161686750075,
+              30.370900925775004,
+              0.0
+            ],
+            [
+              -94.1017269737506,
+              30.370688250775345,
+              0.0
+            ],
+            [
+              -94.10188149458372,
+              30.370082886192904,
+              0.0
+            ],
+            [
+              -94.10232186541634,
+              30.36961907056866,
+              0.0
+            ],
+            [
+              -94.10265144249917,
+              30.369299018485833,
+              0.0
+            ],
+            [
+              -94.10277766229063,
+              30.368967153902986,
+              0.0
+            ],
+            [
+              -94.10279952791558,
+              30.36852232682037,
+              0.0
+            ],
+            [
+              -94.10250939979107,
+              30.36812387682096,
+              0.0
+            ],
+            [
+              -94.10195720395859,
+              30.367918140362974,
+              0.0
+            ],
+            [
+              -94.10131157375127,
+              30.368019107029454,
+              0.0
+            ],
+            [
+              -94.1007625831271,
+              30.36811305494598,
+              0.0
+            ],
+            [
+              -94.1001892945863,
+              30.368130025779294,
+              0.0
+            ],
+            [
+              -94.09970662062875,
+              30.367907805987954,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800213904.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000514.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 1.217,
+        "streamorde": 8.0,
+        "totdasqkm": 20175.84929641,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09970662062875,
+              30.367907805987954,
+              0.0
+            ],
+            [
+              -94.09969464354543,
+              30.367530923696904,
+              0.0
+            ],
+            [
+              -94.10013565708641,
+              30.367041438280978,
+              0.0
+            ],
+            [
+              -94.1004808977109,
+              30.36659228619834,
+              0.0
+            ],
+            [
+              -94.10079703104373,
+              30.365779019532965,
+              0.0
+            ],
+            [
+              -94.10088729771024,
+              30.365378686200245,
+              0.0
+            ],
+            [
+              -94.10085643104361,
+              30.365026486200748,
+              0.0
+            ],
+            [
+              -94.10067810708557,
+              30.364644428909685,
+              0.0
+            ],
+            [
+              -94.09994918208668,
+              30.36422182057703,
+              0.0
+            ],
+            [
+              -94.0994426685458,
+              30.363905504952527,
+              0.0
+            ],
+            [
+              -94.09921599667115,
+              30.36354230182809,
+              0.0
+            ],
+            [
+              -94.09937374562924,
+              30.362808560162534,
+              0.0
+            ],
+            [
+              -94.09981349771192,
+              30.362050886205395,
+              0.0
+            ],
+            [
+              -94.09959123104557,
+              30.36155928620616,
+              0.0
+            ],
+            [
+              -94.09882823104675,
+              30.36117801954009,
+              0.0
+            ],
+            [
+              -94.09812029771456,
+              30.36087841954054,
+              0.0
+            ],
+            [
+              -94.09730363104916,
+              30.360532819541106,
+              0.0
+            ],
+            [
+              -94.09590203105131,
+              30.35999228620858,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800206936.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000510.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.177,
+        "streamorde": 8.0,
+        "totdasqkm": 20175.86649642,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09590203105131,
+              30.35999228620858,
+              0.0
+            ],
+            [
+              -94.09472769042816,
+              30.35876159141884,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800149093.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000508.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.233,
+        "streamorde": 8.0,
+        "totdasqkm": 20178.78549633,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09472769042816,
+              30.35876159141884,
+              0.0
+            ],
+            [
+              -94.09449463105352,
+              30.358183819544706,
+              0.0
+            ],
+            [
+              -94.09425009772053,
+              30.35753748621238,
+              0.0
+            ],
+            [
+              -94.09386209772117,
+              30.356799619546848,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800201254.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000503.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.123,
+        "streamorde": 8.0,
+        "totdasqkm": 20209.26589649,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09386209772117,
+              30.356799619546848,
+              0.0
+            ],
+            [
+              -94.0931516310556,
+              30.355879286214986,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": true,
+        "nhdplusid": 30000800196281.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000501.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.182,
+        "streamorde": 8.0,
+        "totdasqkm": 20209.29159648,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.0931516310556,
+              30.355879286214986,
+              0.0
+            ],
+            [
+              -94.09152829772478,
+              30.35503868621629,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800205057.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000498.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.092,
+        "streamorde": 8.0,
+        "totdasqkm": 20209.29669648,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09152829772478,
+              30.35503868621629,
+              0.0
+            ],
+            [
+              -94.09062323105951,
+              30.354758019550047,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800179934.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000496.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.15,
+        "streamorde": 8.0,
+        "totdasqkm": 20210.97609638,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09062323105951,
+              30.354758019550047,
+              0.0
+            ],
+            [
+              -94.08969743106093,
+              30.35367468621837,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800163223.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000493.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.403,
+        "streamorde": 8.0,
+        "totdasqkm": 20211.04989636,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.08969743106093,
+              30.35367468621837,
+              0.0
+            ],
+            [
+              -94.08972169772755,
+              30.352645286219968,
+              0.0
+            ],
+            [
+              -94.08985449772734,
+              30.35179001955464,
+              0.0
+            ],
+            [
+              -94.09021749772683,
+              30.351344419555346,
+              0.0
+            ],
+            [
+              -94.09062843105949,
+              30.350949886222622,
+              0.0
+            ],
+            [
+              -94.09083909772585,
+              30.35068048622304,
+              0.0
+            ],
+            [
+              -94.09098989772559,
+              30.35037041955684,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800150332.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000488.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.121,
+        "streamorde": 8.0,
+        "totdasqkm": 20211.06169637,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09098989772559,
+              30.35037041955684,
+              0.0
+            ],
+            [
+              -94.08981083106079,
+              30.34998921955747,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800193172.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000482.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.302,
+        "streamorde": 8.0,
+        "totdasqkm": 20211.11329637,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.08981083106079,
+              30.34998921955747,
+              0.0
+            ],
+            [
+              -94.08861089772927,
+              30.34986541955766,
+              0.0
+            ],
+            [
+              -94.0875168310643,
+              30.349658419557954,
+              0.0
+            ],
+            [
+              -94.08692989773192,
+              30.349169219558746,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800141295.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000480.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.318,
+        "streamorde": 8.0,
+        "totdasqkm": 20211.15899637,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.08692989773192,
+              30.349169219558746,
+              0.0
+            ],
+            [
+              -94.08581043106699,
+              30.348807886225927,
+              0.0
+            ],
+            [
+              -94.08509923106806,
+              30.348885886225844,
+              0.0
+            ],
+            [
+              -94.08437209981923,
+              30.3491343497671,
+              0.0
+            ],
+            [
+              -94.08388209773665,
+              30.349469286224917,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800149086.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000464.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.547,
+        "streamorde": 8.0,
+        "totdasqkm": 20291.15059617,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.08388209773665,
+              30.349469286224917,
+              0.0
+            ],
+            [
+              -94.0837254310702,
+              30.34913401955879,
+              0.0
+            ],
+            [
+              -94.08277803107165,
+              30.345539619564363,
+              0.0
+            ],
+            [
+              -94.08283963107158,
+              30.344664286232387,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800201850.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000460.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.131,
+        "streamorde": 8.0,
+        "totdasqkm": 20291.17559618,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.08283963107158,
+              30.344664286232387,
+              0.0
+            ],
+            [
+              -94.08294529773809,
+              30.343490086234226,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800146487.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000459.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 1.565,
+        "streamorde": 8.0,
+        "totdasqkm": 20293.72569628,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.08294529773809,
+              30.343490086234226,
+              0.0
+            ],
+            [
+              -94.08351209773718,
+              30.34215768623625,
+              0.0
+            ],
+            [
+              -94.0844944977357,
+              30.340852686238293,
+              0.0
+            ],
+            [
+              -94.08605449773324,
+              30.34028388623915,
+              0.0
+            ],
+            [
+              -94.08761129773086,
+              30.33942701957386,
+              0.0
+            ],
+            [
+              -94.08848029772952,
+              30.33859641957514,
+              0.0
+            ],
+            [
+              -94.08967789772765,
+              30.337454286243542,
+              0.0
+            ],
+            [
+              -94.09143023105827,
+              30.337110286244126,
+              0.0
+            ],
+            [
+              -94.0936458977215,
+              30.33789461957622,
+              0.0
+            ],
+            [
+              -94.09475423105312,
+              30.339388019573903,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800171024.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000455.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.748,
+        "streamorde": 8.0,
+        "totdasqkm": 20296.09199616,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09475423105312,
+              30.339388019573903,
+              0.0
+            ],
+            [
+              -94.09579689771812,
+              30.33960921957356,
+              0.0
+            ],
+            [
+              -94.09642063105048,
+              30.33914081957431,
+              0.0
+            ],
+            [
+              -94.09679343104995,
+              30.338520086241942,
+              0.0
+            ],
+            [
+              -94.0967788977166,
+              30.337223419577242,
+              0.0
+            ],
+            [
+              -94.09623783105081,
+              30.336044286245738,
+              0.0
+            ],
+            [
+              -94.09623649771748,
+              30.33487101958093,
+              0.0
+            ],
+            [
+              -94.09644309771716,
+              30.334241486248573,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800158148.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000450.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.048,
+        "streamorde": 8.0,
+        "totdasqkm": 20299.79219599,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09644309771716,
+              30.334241486248573,
+              0.0
+            ],
+            [
+              -94.09675629771664,
+              30.33390281958242,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800150333.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000446.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.34,
+        "streamorde": 8.0,
+        "totdasqkm": 20299.92009594,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.09675629771664,
+              30.33390281958242,
+              0.0
+            ],
+            [
+              -94.09686543104982,
+              30.33252261958455,
+              0.0
+            ],
+            [
+              -94.0976318310486,
+              30.331404086252974,
+              0.0
+            ],
+            [
+              -94.0978274310483,
+              30.331064686253512,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pilot": "evadale",
+        "site_no": "08041000",
+        "role": "below both dams; regulated contrast",
+        "is_gauge_reach": false,
+        "nhdplusid": 30000800208844.0,
+        "gnis_name": "Neches River",
+        "hydroseq": 30000800000440.0,
+        "levelpathi": 30000800000080.0,
+        "lengthkm": 0.182,
+        "streamorde": 8.0,
+        "totdasqkm": 20299.97909594,
+        "river_width_m": 78.58249779717305,
+        "in_lake": "False"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -94.0978274310483,
+              30.331064686253512,
+              0.0
+            ],
+            [
+              -94.09911489771298,
+              30.329859419588672,
+              0.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
